@@ -1,8 +1,6 @@
 # catgame
 This was a purely Python terminal game for university course assignment in 2023.
-
-This was an assignment for a Python course in 2023.
-This assignment was made to show we could use Python to construct a very simple card sorting game.
+We had to show we could code in Python by constructing a very simple card sorting game.
 Then, we had to put a creative spin on it called AssignmentCooler.
 Here was my assignment submission.
 
