@@ -5,7 +5,7 @@ Then, we had to put a creative spin on it called AssignmentCooler.
 Here was my assignment submission.
 
 To game is purely played in a terminal.
-1. Download the CatGame folder.
+1. Download CatGame.py.
 2. Direct your terminal to the folder with CatGame.py [ $cd folder ]
 2. Run the script.
     On Windows: $ python CatGame.py
