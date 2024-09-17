@@ -9,5 +9,5 @@ To game is purely played in a terminal.
 2. Direct your terminal to the folder with CatGame.py
    <br> &nbsp; ```$ cd folder```
 2. Run the script.
-    <br>&nbsp; ```On Windows: $ python CatGame.py```
-    <br>&nbsp; ```On Mac: $ python3 CatGame.py```
+    <br>&nbsp; On Windows: ```$ python CatGame.py```
+    <br>&nbsp; On Mac: $ ```python3 CatGame.py```
