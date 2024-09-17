@@ -6,7 +6,8 @@ Here was my assignment submission.
 
 To game is purely played in a terminal.
 1. Download CatGame.py.
-2. Direct your terminal to the folder with CatGame.py [ $cd folder ]
+2. Direct your terminal to the folder with CatGame.py
+   <br> &nbsp; ```$ cd folder```
 2. Run the script.
-    On Windows: $ python CatGame.py
-    On Mac: $ python3 CatGame.py
+    <br>&nbsp; ```On Windows: $ python CatGame.py```
+    <br>&nbsp; ```On Mac: $ python3 CatGame.py```
